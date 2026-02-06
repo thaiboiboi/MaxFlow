@@ -1,2 +1,2 @@
-# MaxFlow
-Full of exercise I made to solve in MaxFLow
+# MaxFlow/MinCut
+Full of exercise I made to solve in MaxFLow/MinCut
