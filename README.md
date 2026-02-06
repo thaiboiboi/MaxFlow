@@ -1,4 +1,4 @@
-# Full of exercise I made to solve in MaxFLow/MinCut
+# exercises I made to solve in MaxFLow/MinCut
 
 # Max Flow — Network Flow Algorithm
 
